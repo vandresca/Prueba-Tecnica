@@ -1,0 +1,15 @@
+D:\Workspace\Parte3\bin\Debug\Parte3.exe.config
+D:\Workspace\Parte3\bin\Debug\Parte3.exe
+D:\Workspace\Parte3\bin\Debug\Parte3.pdb
+D:\Workspace\Parte3\obj\Debug\Parte3.csproj.AssemblyReference.cache
+D:\Workspace\Parte3\obj\Debug\MainWindow.g.cs
+D:\Workspace\Parte3\obj\Debug\App.g.cs
+D:\Workspace\Parte3\obj\Debug\Parte3_MarkupCompile.cache
+D:\Workspace\Parte3\obj\Debug\Parte3_MarkupCompile.lref
+D:\Workspace\Parte3\obj\Debug\MainWindow.baml
+D:\Workspace\Parte3\obj\Debug\Parte3.g.resources
+D:\Workspace\Parte3\obj\Debug\Parte3.Properties.Resources.resources
+D:\Workspace\Parte3\obj\Debug\Parte3.csproj.GenerateResource.cache
+D:\Workspace\Parte3\obj\Debug\Parte3.csproj.CoreCompileInputs.cache
+D:\Workspace\Parte3\obj\Debug\Parte3.exe
+D:\Workspace\Parte3\obj\Debug\Parte3.pdb
