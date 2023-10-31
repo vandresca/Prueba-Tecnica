@@ -1,0 +1,22 @@
+<<< PARTE 1 >>>
+
+	3931283
+
+<<< Parte2 >>>
+
+	69 y 79
+
+<<< Parte3 >>>
+
+	1 hilo    =>  67,2798 ms
+	Multihilo =>  28,2209 ms
+
+	Nota: He añadido un par de TextBox en el ejecutable para poder visualizar
+	los tiempos
+
+	Si el sustantivo y el verbo pudieran tener valores entre 0 y 999999, la tarea se relantecería
+	mucho sin multihilo. Ya que la ejecución paralela de procesos hace que se ejecute al mismo tiempo.
+	
+	En este caso, como tenemos dos bucles for que recorren el sustantivo y el verbo entre esos valores. Si
+	utilizamos multihilo en el verbo estamos reduciendo considerablemente el tiempo de computo, ya que
+	si la tarea a procesar dura 1 ms, duraria 999999 ms y no como en el caso de que no se utilizase, en el que 	que duraria 999998000001 ms.
