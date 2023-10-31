@@ -1,0 +1,5 @@
+D:\Workspace\Parte1\bin\Release\Parte1.exe.config
+D:\Workspace\Parte1\obj\Release\Parte1.csproj.AssemblyReference.cache
+D:\Workspace\Parte1\obj\Release\Parte1.csproj.CoreCompileInputs.cache
+D:\Workspace\Parte1\obj\Release\Parte1.exe
+D:\Workspace\Parte1\obj\Release\Parte1.pdb
